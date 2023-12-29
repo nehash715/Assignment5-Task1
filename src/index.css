@@ -1,0 +1,226 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.size{
+  width: 150px;
+}
+.disp{
+  display: flex;
+}
+.box{
+  border: none;
+}
+.box:hover{
+  background-color: yellow;
+}
+.deletemove{
+  display: flex;
+}
+
+.carul{
+  display: flex;
+  
+}
+
+.carul>li{
+  list-style: none;
+  margin-right: 80px;
+}
+.search{
+  margin-left: 30px;
+}
+.rightside{
+ position: absolute;
+ top: 0%;
+ right: 0%;
+  
+}
+
+.logocar{
+  height: 50px;
+  width: 50px;
+}
+.mainadcar{
+  height: 300px;
+  width: 1000px;
+  margin-left: 150px;
+}
+.carcard{
+
+  margin-left: 110px;
+}
+
+
+.carbox{
+  
+  height:400px;
+width: 500px;
+
+display: flex;
+margin: 20px;
+}
+.cardetail{
+  margin-left: 90px;
+  
+}
+.borderbox{
+  border: 1px solid;
+  height:200px;
+  width: 500px;
+  border-radius: 10px;
+  margin: 20px;
+}
+.share{
+  height: 20px;
+  width: 20px;
+}
+.sellerprofile{
+  list-style:none;
+  display: flex;
+}
+.cardetails{
+  display: flex;
+}
+.cardetailbox{
+  height: 600px;
+  width: 900px;
+}
+.seller{
+  margin-left: 30px;
+}
+.carbig{
+  height: 400px;
+  width: 400px;
+}
+.yatra{
+  height: 50px;
+  width: 50px;
+}
+.flightul{
+  list-style: none;
+  display: flex;
+  margin-left: 700px;
+  position: absolute;
+  top: 0%;
+}
+.flightul>li{
+  margin-right: 40px;
+}
+.leftSide{
+  display: flex;
+}
+.icons{
+  height: 50px;
+  width: 50px;
+  margin: 20px;
+}
+.flightDis{
+  list-style: none;
+  display: flex;
+
+}
+
+.both{
+  display: flex;
+}
+.dis{
+  height: 200px;
+  width: 200px;
+}
+.banner{
+  height: 120px;
+  width: 600px;
+ 
+}
+.rightSide{
+  margin-left: 100px;
+}
+
+.domesticDet{
+  display: flex;
+}
+.domaesticbox{
+  width: 130px;
+  height: 100px;
+  margin-right: 50px;
+}
+.dest{
+  display: flex;
+
+}
+
+.destbox{
+  width: 130px;
+  height: 100px;
+  margin-right: 50px;
+}
+.holiday{
+  display: flex;
+flex-wrap: wrap;
+}
+.holidaybox{
+  width: 350px;
+}
+.nextbtncolor{
+  color:grey
+}
+
+.holimg{
+  height: 50px;
+  width:50px;
+}
+
+.arrow{
+ margin-left: 120px;
+}
+.down{
+  margin-left: 200px;
+ 
+}
+
+
+.calenhead{
+ margin: 10px;
+color:rgb(131, 130, 130);
+}
+.monthname{
+  padding: 3px;
+}
+
+.box1{
+  border: 1px solid;
+  border-color: rgb(134, 133, 133);
+  height: 200px;
+  width: 180px;
+}
+
+.dates{
+  padding: 5px;
+}
+.dates:hover{
+  transform: scale(1.5);
+}
